@@ -48,7 +48,7 @@ Information about the analyst and project details.
 
 # 📈 Content Overview
 
-<img src="images/content_overview.png" width="100%">
+<img src="ScreenShots/2.png" width="100%">
 
 This dashboard analyzes **Netflix's catalog structure and expansion over time.**
 
@@ -122,7 +122,7 @@ Insights:
 
 # 🎭 Genre & Rating Performance
 
-<img src="images/genre_dashboard.png" width="100%">
+<img src="ScreenShots/3.png" width="100%">
 
 This dashboard explores **content categories and audience ratings.**
 
@@ -193,7 +193,7 @@ International content is a **major part of Netflix's catalog strategy**.
 
 # 🌍 Global Distribution & Growth
 
-<img src="images/global_dashboard.png" width="100%">
+<img src="ScreenShots/4.png" width="100%">
 
 This dashboard analyzes **country production and historical release patterns.**
 
