@@ -26,7 +26,7 @@ The report contains **three analytical dashboards** and one introduction page.
 
 # 🏠 Dashboard Landing Page
 
-<img src="images/dashboard_intro.png" width="100%">
+<img src="ScreenShots/1.png" width="100%">
 
 This page introduces the **analytical structure of the report**.
 
